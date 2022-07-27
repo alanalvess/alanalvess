@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p > 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height=45 /> </a>
-    
+  <br>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" height=45 /> </a>
 </p>
