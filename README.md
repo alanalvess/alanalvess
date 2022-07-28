@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 ### 🔹Backend Languages🔹
 
-[![Top Langs](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com)
+<p>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" height=75 /> </a>
+</p>
 
 
 ### 🔹Backend framework and libraries🔹
