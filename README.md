@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center >
 
 [![Visitors](https://komarev.com/ghpvc/?username=alanalvess&color=blueviolet&label=Visitors&style=for-the-badge&logo=eye)](https://komarev.com/ghpvc/?username=alanalvess&color=447ff7&label=Visitor+count)
-[![Stars](https://custom-icon-badges.herokuapp.com/github/stars/alanalvess?color=55960c&style=for-the-badge&logo=star)](https://github.com/alanalvess?tab=repositories&sort=stargazers)
+[![Stars](https://custom-icon-badges.herokuapp.com/github/stars/alanalvess?color=55960c&style=for-the-badge&logo=star)](https://github.com/alanalvess?tab=stars)
 [![Follow](https://custom-icon-badges.herokuapp.com/github/followers/alanalvess?color=236ad3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/alanalvess?tab=followers)
 
 [![My Repositories](https://custom-icon-badges.herokuapp.com/badge/-My%20Repositories-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/alanalvess?tab=repositories)
