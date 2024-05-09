@@ -116,8 +116,8 @@ Here are some ideas to get you started:
 
 # 📈 Statistics 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanAlvess&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![AlanAlvess's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanAlvess&theme=radical&hide_border=true)](https://git.io/streak-stats)   [![AlanAlvess's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![AlanAlvess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanAlvess&theme=redical&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
