@@ -44,22 +44,25 @@ Here are some ideas to get you started:
 ### 🔹Backend framework and libraries🔹
 
 <p>
-  <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=40 width=50 /> </a>
+    <img src="https://spring.io/img/projects/spring-boot.svg" height=40 width=50/>
+    </a>  
+  <a href="https://spring.io/projects/spring-framework" target="_blank"> 
+    <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 />
+    </a>
   <a href="https://spring.io/projects/spring-data" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=40 width=50 /> </a>
-  <a href="https://spring.io/projects/spring-security" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> </a>
+    <img src="https://spring.io/img/projects/spring-data.svg" height=40 width=50 /> </a>
   <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-cloud-81fe04ab129ab99da0e7c7115bb09920.svg" height=40 width=50 /> </a>
+    <img src="https://spring.io/img/projects/spring-cloud.svg" height=40 width=50 /> </a>  
+  <a href="https://spring.io/projects/spring-security" target="_blank"> 
+    <img src="https://spring.io/img/projects/spring-security.svg" height=40 width=50 /> </a>
 </p>
 
 
 ### 🔹Databases🔹
 
-
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 <p > 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height=45 /> </a>
@@ -80,6 +83,8 @@ Here are some ideas to get you started:
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
 
@@ -92,7 +97,6 @@ Here are some ideas to get you started:
 ### 🔹Others🔹
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows?r=1)
 [![JUnit](https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?style=for-the-badge&logo=check-circle&logoColor=white)](https://junit.org/junit5/)
@@ -103,15 +107,13 @@ Here are some ideas to get you started:
 
 # 📈 Statistics 📈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanAlvess&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanAlvess&theme=radical&hide_border=true)](https://git.io/streak-stats)
 [![AlanAlvess's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![AlanAlvess's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlanAlvess&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![AlanAlvess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanAlvess&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-# 🔥 Contatos 🔥 
+# 📫 Contatos 📫 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanalvess/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alan.alvess@outlook.com)
