@@ -1,135 +1,66 @@
-<!--
-**alanalvess/alanalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alan Alves](https://readme-typing-svg.herokuapp.com?font=audiowide&size=40&color=66FCF1&width=900&height=80&lines=Olá,+eu+sou+Alan+Alves;Desenvolvedor+Backend+Java;Estudante+de+Engenharia+da+Computação)
 
-Here are some ideas to get you started:
+[![Repos](https://custom-icon-badges.herokuapp.com/badge/-Meus%20Repositórios-333333?style=for-the-badge&logo=repo&logoColor=white)](https://github.com/alanalvess?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<div align=center >
+## 👨‍💻 Sobre mim
 
-[![Visitors](https://komarev.com/ghpvc/?username=alanalvess&color=blueviolet&label=Visitors&style=for-the-badge&logo=eye)](https://komarev.com/ghpvc/?username=alanalvess&color=447ff7&label=Visitor+count)
-[![Stars](https://custom-icon-badges.herokuapp.com/github/stars/alanalvess?color=55960c&style=for-the-badge&logo=star)](https://github.com/alanalvess?tab=stars)
-[![Follow](https://custom-icon-badges.herokuapp.com/github/followers/alanalvess?color=236ad3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/alanalvess?tab=followers)
+- 🎓 Graduado em Administração pela FECAP e estudante de Engenharia da Computação pela UNIVESP.  
+- 🚀 Em transição de carreira, trazendo a bagagem da Administração para criar soluções robustas e eficientes.
+- 💼 Experiência com projetos pessoais e bootcamps intensivos em Java, Spring Boot e React.  
+- 📚 Sempre aprendendo: atualmente estudando arquitetura de sistemas, testes e microsserviços.  
 
-[![My Repositories](https://custom-icon-badges.herokuapp.com/badge/-My%20Repositories-blue?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/alanalvess?tab=repositories)
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)          
+### 🔹 Backend: 
+![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-555555?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-555555?style=for-the-badge&logo=check-circle&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-555555?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=audiowide&size=50&color=F8D847&center=true&vCenter=true&width=1250&height=100&lines=Meu+nome+%C3%A9+Alan+Alves;Sou+desenvolvedor+Backend;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+### 🔹 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-555555?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvess&theme=radical&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🔹 Outros
+![Docker](https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=white)
 
-![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+---
 
-# 🔥 Skills 🔥
+## 📈 Estatísticas do GitHub
 
-### 🔹Backend Languages🔹
+### 🔹 Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvess&theme=nord&layout=compact&hide_border=true&&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" height=75 /> </a>
-</p>
+### 🔹 Contribuições e Atividade
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&show_icons=true&theme=nord&hide_border=true&count_private=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔹 Dias seguidos de contribuição
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanAlvess&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
-### 🔹Backend framework and libraries🔹
+---
 
-<p>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://spring.io/img/projects/spring-boot.svg" height=40 width=50/>
-    </a>  
-  <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-    <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 />
-    </a>
-  <a href="https://spring.io/projects/spring-data" target="_blank"> 
-    <img src="https://spring.io/img/projects/spring-data.svg" height=40 width=50 /> </a>
-  <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-    <img src="https://spring.io/img/projects/spring-cloud.svg" height=40 width=50 /> </a>  
-  <a href="https://spring.io/projects/spring-security" target="_blank"> 
-    <img src="https://spring.io/img/projects/spring-security.svg" height=40 width=50 /> </a>
-</p>
+## 🧠 Mapa de Atividades
+[![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=AlanAlvess&theme=nord&hide_border=true&radius=10&height=350&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-### 🔹Frontend Languages🔹
+## 🤝 Vamos nos conectar
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+Estou sempre aberto a novas oportunidades, colaborações ou apenas uma boa conversa sobre tecnologia.  
+📫 Fique à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/alanalvess/) ou [e-mail](mailto:alan.alvess@outlook.com).
 
+---
 
-### 🔹Frontend framework and libraries🔹
+⭐ Obrigado por visitar meu perfil!
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-
-### 🔹Databases🔹
-
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-
-### 🔹Version Control🔹
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-
-
-### 🔹Hosting🔹
-
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
-
-
-
-### 🔹IDEs🔹
-
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-
-### 🔹Others🔹
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)](https://insomnia.rest/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![JUnit](https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?style=for-the-badge&logo=check-circle&logoColor=white)](https://junit.org/junit5/)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
-
-
-![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-# 📈 Statistics 📈
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanAlvess&theme=radical&hide_border=true)](https://git.io/streak-stats)   [![AlanAlvess's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AlanAlvess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanAlvess&theme=redical&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-# 📫 Contatos 📫 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanalvess/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alan.alvess@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511984982465)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alanalvess)
-
-![Location](https://custom-icon-badges.herokuapp.com/badge/S%C3%A3o%20Paulo-BRA-purple?style=for-the-badge&logo=location&logoColor=white)
-
-
-![Marcação](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
