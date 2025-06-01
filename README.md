@@ -47,7 +47,7 @@
 ## 📈 Estatísticas do GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanAlvess&locale=pt-br&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact&hide=stars&custom_title=Estatísticas)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvess&theme=gotham&layout=compact&hide_border=true&locale=pt-br&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvess&theme=gotham&layout=compact&hide_border=true&locale=pt-br&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
